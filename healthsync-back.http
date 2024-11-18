@@ -1,0 +1,6 @@
+@healthsync_back_HostAddress = http://localhost:5290
+
+GET {{healthsync_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
